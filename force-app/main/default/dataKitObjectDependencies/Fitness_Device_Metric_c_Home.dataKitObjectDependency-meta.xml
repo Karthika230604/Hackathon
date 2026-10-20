@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataPackageKitDef>JovaFitGo_FitnessMetrics_DataKit</dataPackageKitDef>
+    <developerName>Fitness_Device_Metric_c_Home</developerName>
+    <masterLabel>Fitness_Device_Metric_c_Home__dll</masterLabel>
+    <sourceObject>Fitness_Device_Metric_c_Home1</sourceObject>
+    <sourceObjectType>DataSourceObject</sourceObjectType>
+    <targetObject>Fitness_Device_Metric_c_Home</targetObject>
+</DataKitObjectDependency>
